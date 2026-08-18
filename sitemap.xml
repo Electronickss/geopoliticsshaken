@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://geopoliticsshaken.com/</loc>
-    <lastmod>2026-08-15</lastmod>
+    <lastmod>2026-08-18</lastmod>
   </url>
   <url>
     <loc>https://geopoliticsshaken.com/posts/</loc>
+  </url>
+  <url>
+    <loc>https://geopoliticsshaken.com/posts/the-shadow-fleet/</loc>
+    <lastmod>2026-08-18</lastmod>
   </url>
   <url>
     <loc>https://geopoliticsshaken.com/posts/elasticity-material-basis-freedom/</loc>
@@ -26,5 +30,13 @@
   <url>
     <loc>https://geopoliticsshaken.com/posts/the-geography-of-endurance/</loc>
     <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://geopoliticsshaken.com/posts/placeholder-maritime-order/</loc>
+    <lastmod>2026-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://geopoliticsshaken.com/posts/placeholder-alliances/</loc>
+    <lastmod>2026-08-09</lastmod>
   </url>
 </urlset>
